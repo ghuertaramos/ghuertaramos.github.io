@@ -14,18 +14,6 @@ Education
 * B.S. in Biology, BUAP, 2011
 * M.S. in Systematics, INECOL A.C., 2015
 * Ph.D in Evolution, UNAM, 2021 (expected)
-
-Work experience
-======
-
-* Summer 2015: Laboratory Assistant
-  * ENES-Morelia
-  * Supervisor: Silvana Martén Rodríguez PhD.
-  
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
   
 Skills
 ======
@@ -48,11 +36,16 @@ Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul>  
+
+Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>  
   
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
