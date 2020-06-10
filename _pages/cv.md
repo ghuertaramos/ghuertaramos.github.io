@@ -17,25 +17,33 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2015: Laboratory Assistant
+  * ENES-Morelia
+  * Supervisor: Silvana Martén Rodríguez PhD.
+  
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
+* Molecular laboratory
+  * DNA extraction and PCR amplification
+  * Illumina library preparation and analysis
+  * Fluorescence microscopy sample preparation and visualization
+  
+* Informatics
+  * R Programming
+  * Command line
+  * Markdown
+  * Version control with Git
+  
+* Field biology
+  * Plant collection and identification
+  * Pollination biology experimentation
+  
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -48,9 +56,3 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
