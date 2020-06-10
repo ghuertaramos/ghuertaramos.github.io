@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Guillermo Huerta Ramos"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Guillermo Huerta Ramos"
 description              : &description "Evolutionary Biologist at ENES-Morelia, UNAM"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Guillermo Huerta Ramos"
+  name             : "Guillermo Huerta-Ramos"
   avatar           : "profile.png"
   bio              : "Evolutionary Biologist at ENES-Morelia, UNAM"
   location         : "Michoacan, Mexico"
