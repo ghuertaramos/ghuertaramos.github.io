@@ -23,10 +23,10 @@ Skills
   * Fluorescence microscopy sample preparation and visualization
   
 * Informatics
-  * R Programming
   * Command line
+  * R Programming 
   * Markdown
-  * Version control with Git
+  * Version control (Git)
   
 * Field biology
   * Plant collection and identification
