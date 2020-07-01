@@ -8,6 +8,8 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Home"
+theme                    : minimal-mistakes-jekyll
+minimal_mistakes_skin    : "dark"
 title_separator          : "-"
 name                     : &name "Guillermo Huerta Ramos"
 description              : &description "Evolutionary Biologist at ENES-Morelia, UNAM"
