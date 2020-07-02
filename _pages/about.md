@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Hi! I'm Guillermo, a Ph.D student at [ENES-Morelia, UNAM](http://www.enesmorelia.unam.mx/) in Mexico. I'm a member of the Plant Evolutionary Ecology Laboratory from [Silvana Martén-Rodríguez Ph.D](https://scholar.google.es/citations?user=8-U0ygsAAAAJ&hl) and [National Laboratory of Ecological Analysis and Synthesis](http://www.lanase.unam.mx/). I'm on the final stage of my degree and actively looking for a postdoc, if you know of an opportunity, please let me know!
 
-A data-driven personal website
+
+My research
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
+I'm currently studying the macroevolutionary patterns related to the evolution of breeding systems in morning glories (<i>Ipomoea</i>)
 
