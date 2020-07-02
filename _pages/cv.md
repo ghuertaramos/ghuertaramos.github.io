@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Biology, BUAP, 2011
 * M.S. in Systematics, INECOL A.C., 2015
-* Ph.D in Evolution, UNAM, 2021 (expected)
+* Ph.D in Evolutionary biology, UNAM, 2021 (expected)
   
 Skills
 ======
