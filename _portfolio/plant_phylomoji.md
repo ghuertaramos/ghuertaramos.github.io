@@ -1,6 +1,6 @@
 ---
 title: "Plant Phylomoji Github Repo"
-excerpt: "A phylogeny of plants represented by emojis <br/><img src='https://raw.githubusercontent.com/ghuertaramos/PlantPhylomoji/master/data/StrictPhylomoji.png' height="50%" width="50%">"
+excerpt: "A phylogeny of plants represented by emojis <br/><img src='https://raw.githubusercontent.com/ghuertaramos/PlantPhylomoji/master/data/StrictPhylomoji.png' height='50%' width='50%'>"
 collection: portfolio
 ---
 
