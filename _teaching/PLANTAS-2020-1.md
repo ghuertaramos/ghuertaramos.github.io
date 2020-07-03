@@ -1,5 +1,5 @@
 ---
-title: "Curso Biodiversidad V: Plantas 2020-1"
+title: "Biodiversidad V: Plantas 2020-1"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/PLANTAS-2020-1
