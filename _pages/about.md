@@ -20,11 +20,23 @@ Research
 <div class="row">
   <div class="column">
     <img src="https://static.inaturalist.org/photos/79310694/large.jpeg?1592408054">
+    </div>
+    <div class="column">
     <img src="rhttps://static.inaturalist.org/photos/5164129/large.jpeg?1475981848">
+      </div>
+      <div class="column">
     <img src="https://static.inaturalist.org/photos/72794898/large.jpeg?1589483480">
+        </div>
+        <div class="column">
     <img src="https://static.inaturalist.org/photos/5271732/large.jpeg?1476896808">
+          </div>
+      <div class="column">
     <img src="https://static.inaturalist.org/photos/5165444/large.jpeg?1475990922">
+        </div>
+       <div class="column">
     <img src="https://static.inaturalist.org/photos/5510400/large.jpg?1479073501">
+         </div>
+        <div class="column">
     <img src="https://static.inaturalist.org/photos/5165065/large.jpg?1475987893">
    </div>
   </div>
