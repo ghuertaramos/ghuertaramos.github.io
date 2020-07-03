@@ -19,25 +19,25 @@ Research
 
 <div class="row">
   <div class="column">
-    <img src="https://static.inaturalist.org/photos/79310694/large.jpeg?1592408054" alt="Ipomoea indica" style="width:100%">
+    <img src="https://static.inaturalist.org/photos/79310694/large.jpeg?1592408054" alt="Ipomoea_indica" style="width:100%">
   </div>
   <div class="column">
-    <img src="https://static.inaturalist.org/photos/5164129/large.jpeg?1475981848" alt="Ipomoea santillanii" style="width:100%">
+    <img src="https://static.inaturalist.org/photos/5164129/large.jpeg?1475981848" alt="Ipomoea_hederacea" style="width:100%">
   </div>
   <div class="column">
-    <img src="https://static.inaturalist.org/photos/72794898/large.jpeg?1589483480" alt="Ipomoea decasperma" style="width:100%">
+    <img src="https://static.inaturalist.org/photos/72794898/large.jpeg?1589483480" alt="Ipomoea_santillanii" style="width:100%">
    </div>
    <div class="column">
-    <img src="https://static.inaturalist.org/photos/5271732/large.jpeg?1476896808" alt="I orizabensis novogaliciana" style="width:100%">
+    <img src="https://static.inaturalist.org/photos/5271732/large.jpeg?1476896808" alt="Ipomoea_decasperma" style="width:100%">
    </div>
    <div class="column">
-    <img src="https://static.inaturalist.org/photos/5165444/large.jpeg?1475990922" alt="Ipomoea villifera" style="width:100%">
+    <img src="https://static.inaturalist.org/photos/5165444/large.jpeg?1475990922" alt="I_orizabensis_novogaliciana" style="width:100%">
    </div>
    <div class="column">
-    <img src="https://static.inaturalist.org/photos/5510400/large.jpg?1479073501" alt="Ipomoea dumosa" style="width:100%">
+    <img src="https://static.inaturalist.org/photos/5510400/large.jpg?1479073501" alt="Ipomoea_villifera" style="width:100%">
    </div>
    <div class="column">
-    <img src="https://static.inaturalist.org/photos/5165065/large.jpg?1475987893" alt="Snow" style="width:100%">
+    <img src="https://static.inaturalist.org/photos/5165065/large.jpg?1475987893" alt="Ipomoea_dumosa" style="width:100%">
    </div>
 </div>
 
