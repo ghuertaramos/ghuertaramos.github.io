@@ -17,16 +17,15 @@ Hi! I'm Guillermo, a Ph.D student at [ENES-Morelia, UNAM](http://www.enesmorelia
 Research
 ======
 
+My broad interest is the analysis of the evolutionary forces driving species diversification. For my doctoral degree, I'm studying how breeding systems have shaped macroevolutionary patterns in morning glories (<i>Ipomoea</i>). 
+Through my research, I'm trying to integrate phylogenetic comparative methods, niche modelling, and field experiments to assess the processes underlying the origin and extinction of species. I'm also interested in how evolutionary research could predict species responses to the current environmental crysis.
+
 <img src="/images/Ipomoea_indica.jpeg" height="150px" width="15%">
 <img src="/images/Ipomoea_hederacea.jpeg" height="150px" width="15%">
 <img src="/images/Ipomoea_santillanii.jpeg" height="150px" width="15%">
 <img src="/images/Ipomoea_decasperma.jpeg" height="150px" width="15%">
 <img src="/images/Ipomoea_orizabensis_novogaliciana.jpeg" height="150px" width="15%">
 <img src="/images/Ipomoea_dumosa.jpeg" height="150px" width="15%">
-
-
-My broad interest is the analysis of the evolutionary forces driving species diversification. For my doctoral degree, I'm studying how breeding systems have shaped macroevolutionary patterns in morning glories (<i>Ipomoea</i>). 
-Through my research, I'm trying to integrate phylogenetic comparative methods, niche modelling, and field experiments to assess the processes underlying the origin and extinction of species. I'm also interested in how evolutionary research could predict species responses to the current environmental crysis.
 
 Looking for a postdoc
 ======
