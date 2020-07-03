@@ -8,15 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<div class="w3-content">
- <img class="mySlides" src="https://i.imgur.com/ZtdhrUA.jpg" alt="custom_html_banner1" style="width:100%">
- <img class="mySlides" src="https://i.imgur.com/ZtdhrUA.jpg" alt="custom_html_banner2" style="width:100%">
- <img class="mySlides" src="https://i.imgur.com/ZtdhrUA.jpg" alt="custom_html_banner3" style="width:100%">
- <img class="mySlides" src="https://i.imgur.com/ZtdhrUA.jpg" alt="custom_html_banner4" style="width:100%">
- <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
- <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1)">&#10095;</button>
-</div>
-
 Work in progress
 ======
 This a  preliminary version of my website. Please  come back soon!
@@ -25,6 +16,19 @@ Hi! I'm Guillermo, a Ph.D student at [ENES-Morelia, UNAM](http://www.enesmorelia
 
 Research
 ======
+
+<div class="row">
+  <div class="column">
+    <img src="wedding.jpg">
+    <img src="rocks.jpg">
+    <img src="falls2.jpg">
+    <img src="paris.jpg">
+    <img src="nature.jpg">
+    <img src="mist.jpg">
+    <img src="paris.jpg">
+   </div>
+  </div>
+  
 My broad interest is the analysis of the evolutionary forces driving species diversification. For my doctoral degree, I'm studying how breeding systems have shaped macroevolutionary patterns in morning glories (<i>Ipomoea</i>).
 Through my research, I'm trying to integrate phylogenetic comparative methods, niche modelling, and field experiments to assess the processes underlying the origin and extinction of species. I'm also interested in how evolutionary research could predict species responses to the current environmental crysis.
 
