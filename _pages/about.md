@@ -8,16 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Work in progress
-======
-This a  preliminary version of my website. Please  come back soon!
-
-Hi! I'm Guillermo, a Ph.D student at [ENES-Morelia, UNAM](http://www.enesmorelia.unam.mx/). I'm a member of the Plant Evolutionary Ecology Lab from [Silvana Martén-Rodríguez Ph.D](https://scholar.google.es/citations?user=8-U0ygsAAAAJ&hl) and the [National Laboratory of Ecological Analysis and Synthesis](http://www.lanase.unam.mx/). 
+Hi! I'm Guillermo, a Ph.D student at <a href="http://www.enesmorelia.unam.mx/" target="_blank">ENES-Morelia, UNAM</a>. I'm a member of the Plant Evolutionary Ecology Lab from [Silvana Martén-Rodríguez Ph.D](https://scholar.google.es/citations?user=8-U0ygsAAAAJ&hl) and the <a href="http://www.lanase.unam.mx/" target="_blank">National Laboratory of Ecological Analysis and Synthesis</a>.
 
 Research
 ======
 
-My broad interest is the analysis of the evolutionary forces driving species diversification. For my doctoral degree, I'm studying how breeding systems have shaped macroevolutionary patterns in morning glories (<i>Ipomoea</i>). In my research, I integrate phylogenetic comparative methods, niche modelling, and field experiments. I'm also interested in the use of evolutionary research to predict species responses to the current environmental crysis.
+My broad interest is the analysis of ecological, geographical and historical factors driving species diversification. I'm also interested in the use of evolutionary research to predict species responses to the current environmental crysis.
+For my doctoral degree, I integrate phylogenetic comparative methods, niche modelling, and field experiments to assess how breeding systems have shaped macroevolutionary patterns in morning glories (<i>Ipomoea</i>). 
+
 
 <img src="/images/Ipomoea_indica.jpeg" height="175px" width="15%">
 <img src="/images/Ipomoea_hederacea.jpeg" height="175px" width="15%">
@@ -28,4 +26,4 @@ My broad interest is the analysis of the evolutionary forces driving species div
 
 Looking for a postdoc
 ======
-I'm on the final stage of my degree and actively looking for a postdoc, if you know of an opportunity, please let me know!
+I'm on the final stage of my degree and actively looking for a postdoc for 2021 Mid-Year (Preferably in Europe). If you know of an opportunity, please let me know!
