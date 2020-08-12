@@ -33,16 +33,16 @@ Skills
   * Plant collection and identification
   * Experimental pollination biology
   
- Relevant Courses and Workshops
+ Courses and Workshops
  ======
- * Molecular Dating. INECOL. Xalapa, Mexico. 2012.
- * Statistics in R. INECOL. Xalapa, Mexico. 2013.
- * Pollination Evolutionary Ecology. INECOL. Xalapa, Mexico. 2014. 
- * Bioinformatics for Landscape Genomics. ENES-Morelia. 2016
- * Multivariate Analysis in R. IIES, Morelia, Mexico. 2017.
- * Introduction to bioinformatics and reproducible research for genetic analysis. Instituto de Ecología, Mexico City, Mexico. 2017.
- * Introduction to the analysis of microbial gene sequences and metagenomics. IIES, Morelia, Mexico. 2017
- * Using Geiger, Phytools, and other computational tools to study macroevolution on phylogenies. Transmitting Science. Barcelona, Spain. 2018.
+ * Molecular Dating. INECOL. Xalapa, Mexico. 
+ * Statistics in R. INECOL. Xalapa, Mexico.
+ * Pollination Evolutionary Ecology. INECOL. Xalapa, Mexico. 
+ * Bioinformatics for Landscape Genomics. ENES-Morelia.
+ * Multivariate Analysis in R. IIES, Morelia, Mexico.
+ * Introduction to bioinformatics and reproducible research for genetic analysis. Instituto de Ecología, Mexico City, Mexico.
+ * Introduction to the analysis of microbial gene sequences and metagenomics. IIES, Morelia, Mexico.
+ * Using Geiger, Phytools, and other computational tools to study macroevolution on phylogenies. Transmitting Science. Barcelona, Spain.
   
 Publications
 ======
@@ -56,3 +56,8 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>  
   
+Scientific societies:
+======
+Society of Systematic Biologists
+Mexican Society of Bioinformatics
+
