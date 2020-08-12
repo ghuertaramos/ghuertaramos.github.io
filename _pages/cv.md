@@ -33,8 +33,8 @@ Skills
   * Plant collection and identification
   * Experimental pollination biology
   
- Courses and Workshops
- ======
+Courses and Workshops
+======
  * Molecular Dating. INECOL. Xalapa, Mexico. 
  * Statistics in R. INECOL. Xalapa, Mexico.
  * Pollination Evolutionary Ecology. INECOL. Xalapa, Mexico. 
@@ -56,8 +56,8 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>  
   
-Scientific societies:
+Scientific societies
 ======
-Society of Systematic Biologists
-Mexican Society of Bioinformatics
+ * Society of Systematic Biologists.
+ * Mexican Society of Bioinformatics.
 
