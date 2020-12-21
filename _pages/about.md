@@ -26,4 +26,4 @@ For my doctoral degree, I integrate phylogenetic comparative methods, niche mode
 
 Looking for a postdoc
 ======
-I'm on the final stage of my degree and actively looking for a postdoc for 2021 Mid-Year (Preferably in Europe). If you know of an opportunity, please let me know!
+I'm on the final stage of my degree and actively looking for a postdoc for 2022. If you know of an opportunity, please let me know!
