@@ -9,11 +9,23 @@ redirect_from:
 
 {% include base_path %}
 
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>  
+  
 Education
 ======
 * B.S. in Biology, BUAP, 2011
 * M.S. in Systematics, INECOL A.C., 2015
 * Ph.D in Evolutionary biology, UNAM, 2021 (expected)
+  
+Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>  
   
 Skills
 ======
@@ -43,19 +55,7 @@ Courses and Workshops
  * Introduction to bioinformatics and reproducible research for genetic analysis. Instituto de Ecología, Mexico City, Mexico.
  * Introduction to the analysis of microbial gene sequences and metagenomics. IIES, Morelia, Mexico.
  * Using Geiger, Phytools, and other computational tools to study macroevolution on phylogenies. Transmitting Science. Barcelona, Spain.
-  
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>  
-
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>  
-  
+ 
 Scientific societies
 ======
  * Society of Systematic Biologists.
