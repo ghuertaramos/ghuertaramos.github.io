@@ -7,4 +7,3 @@ venue: "ENES-Morelia, UNAM. Ecología"
 date: 
 location: "Morelia, Mexico"
 ---
-que pasa si pongo cosas aqui
