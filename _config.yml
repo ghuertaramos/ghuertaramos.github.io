@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Guillermo Huerta-Ramos"
-  avatar           : "Selection_155.png"
+  avatar           : "profile.jpg"
   bio              : "Evolutionary Biologist at ENES-Morelia, UNAM"
   location         : "Michoacan, Mexico"
   employer         :
@@ -93,7 +93,7 @@ author:
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           :
+  flickr           : "https://www.flickr.com/photos/xerofilo"
   facebook         :
   foursquare       :
   github           : "ghuertaramos"
