@@ -58,6 +58,5 @@ Courses and Workshops
  
 Scientific societies
 ======
- * Society of Systematic Biologists.
- * Mexican Society of Bioinformatics.
+ * Convolvulaceae network 
 
