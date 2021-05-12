@@ -17,6 +17,26 @@ My broad interest is the analysis of ecological, geographical and historical fac
 For my doctoral degree, I integrate phylogenetic comparative methods, niche modelling, and field experiments to assess how breeding systems have shaped macroevolutionary patterns in morning glories (<i>Ipomoea</i>). 
 
 
+gallery:
+  - url: /images/Ipomoea_indica.jpeg
+    image_path: /assets/images/unsplash-gallery-image-1-th.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: /images/Ipomoea_hederacea.jpeg
+    image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    alt: "placeholder image 2"
+    title: "Image 2 title caption"
+  - url: images/Ipomoea_santillanii.jpeg
+    image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: /images/Ipomoea_decasperma.jpeg
+    image_path: /assets/images/unsplash-gallery-image-4-th.jpg
+    alt: "placeholder image 4"
+    title: "Image 4 title caption"
+    
+{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+
 <img src="/images/Ipomoea_indica.jpeg" height="175px" width="15%">
 <img src="/images/Ipomoea_hederacea.jpeg" height="175px" width="15%">
 <img src="/images/Ipomoea_santillanii.jpeg" height="175px" width="15%">
