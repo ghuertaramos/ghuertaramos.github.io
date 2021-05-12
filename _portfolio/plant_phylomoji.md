@@ -1,6 +1,6 @@
 ---
 title: "Plant Phylomoji Github Repo"
-excerpt: "[![ghuertaramos/PlantPhylomoji - GitHub](https://gh-card.dev/repos/ghuertaramos/PlantPhylomoji.svg)](https://github.com/ghuertaramos/PlantPhylomoji) <br/><img src='https://raw.githubusercontent.com/ghuertaramos/PlantPhylomoji/master/images/complete_plant_phylomoji.png' height='45%' width='50%'>"
+excerpt: "[![ghuertaramos/PlantPhylomoji - GitHub](https://gh-card.dev/repos/ghuertaramos/PlantPhylomoji.svg)](https://github.com/ghuertaramos/PlantPhylomoji) <br/><img src='https://raw.githubusercontent.com/ghuertaramos/PlantPhylomoji/master/images/complete_plant_phylomoji.png' height='45%' width='45%'>"
 collection: portfolio
 ---
 
