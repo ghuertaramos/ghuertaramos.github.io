@@ -24,4 +24,4 @@ My research interests revolve around understanding the intricate interplay betwe
 
 Seeking Postdoctoral Opportunities
 ======
-As I approach the final stage of my doctoral degree, I am actively seeking postdoctoral opportunities for the year 2022. If you are aware of any exciting prospects or would like to collaborate, please don't hesitate to contact me. Your support and recommendations are greatly appreciated!
+As I approach the final stage of my doctoral degree, I am actively seeking postdoctoral opportunities for the year 2024. If you are aware of any exciting prospects or would like to collaborate, please don't hesitate to contact me. Your support and recommendations are greatly appreciated!
