@@ -1,4 +1,4 @@
----
+----
 title: "Publications"
 permalink: /publications/
 layout: archive
@@ -8,34 +8,28 @@ entries_layout: list
 
 {% include base_path %}
 
-{%- comment -%} Opcional: enlace a Google Scholar si está definido en _config.yml -> author.googlescholar {%- endcomment -%}
-{% if author.googlescholar %}
-<p>You can also find my articles on <u><a href="{{ author.googlescholar }}">my Google Scholar profile</a></u>.</p>
-{% endif %}
+{%- comment -%} Rango: del año actual hacia atrás 4 (p. ej., 2025 → 2021–2025) {%- endcomment -%}
+{% assign current_year = site.time | date: "%Y" | plus: 0 %}
+{% assign cutoff_year  = current_year | minus: 4 %}
 
-{%- comment -%} 1) Tomar todas las publicaciones visibles {%- endcomment -%}
-{% assign pubs_all = site.publications | where_exp: "p", "p.published != false" %}
+{%- comment -%} Colección, visibles y solo últimos 5 años {%- endcomment -%}
+{% assign pubs_all    = site.publications | where_exp:"p","p.published != false" %}
+{% assign pubs_recent = pubs_all | where_exp:"p","p.year >= cutoff_year" %}
 
-{%- comment -%} 2) Pinned primero (selected: true), luego el resto {%- endcomment -%}
-{% assign pubs_selected = pubs_all | where: "selected", true | sort: "year" | reverse %}
-{% assign pubs_other = pubs_all | where_exp: "p","p.selected != true" | sort: "year" | reverse %}
-
-{%- if pubs_all == empty -%}
-<p><em>No publications yet.</em></p>
-{%- endif -%}
+{%- comment -%} Destacados primero, todo por fecha desc {%- endcomment -%}
+{% assign pubs_selected = pubs_recent | where:"selected", true | sort:"date" | reverse %}
+{% assign pubs_other    = pubs_recent | where_exp:"p","p.selected != true" | sort:"date" | reverse %}
 
 {%- if pubs_selected != empty -%}
-<h2>Highlighted</h2>
+<h2>Highlighted (last 5 years)</h2>
 {% for post in pubs_selected %}
   {% include archive-single.html %}
 {% endfor %}
 <hr/>
 {%- endif -%}
 
-{%- comment -%} 3) Listado por año (descendente), dentro de cada año orden por date desc {%- endcomment -%}
-{% assign pubs_sorted = pubs_other | sort: "date" | reverse %}
-{% assign groups = pubs_sorted | group_by: "year" %}
-
+{%- comment -%} Agrupar por año (orden de grupos: desc); dentro ya vienen por date desc {%- endcomment -%}
+{% assign groups = pubs_other | group_by:"year" | sort:"name" | reverse %}
 {% for g in groups %}
   {% if g.name %}
   <h2 id="y{{ g.name }}">{{ g.name }}</h2>
