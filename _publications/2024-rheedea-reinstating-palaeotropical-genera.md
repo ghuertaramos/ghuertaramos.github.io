@@ -1,7 +1,7 @@
 ---
 title: "Reinstating Palaeotropical genera of Convolvulaceae: Argyreia, Stictocardia, Turbina and Astripomoea (tribe Ipomoeeae, subtribe Argyreiineae)"
 collection: publications
-permalink: /publication/2024-reinstating-palaeotropical-genera
+permalink: /publication/2024-rheedea-reinstating-palaeotropical-genera.md
 date: 2024-12-31
 year: 2024
 venue: "Rheedea"
