@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>  
+<h1>Publications</h1>
+{% assign pubs = site.publications | sort: "date" | reverse %}
+{% for post in pubs %}
+  {% include archive-single-cv.html %}
+{% endfor %}
   
 Education
 ======
