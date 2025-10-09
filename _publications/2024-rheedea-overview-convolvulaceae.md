@@ -1,7 +1,7 @@
 ---
 title: "Sweet potato, morning glories, bindweeds: an overview of Convolvulaceae"
 collection: publications
-permalink: /publication/2024-convolvulaceae-overview
+permalink: /publication/2024-rheedea-overview-convolvulaceae.md
 date: 2024-12-31
 year: 2024
 venue: "Rheedea"
