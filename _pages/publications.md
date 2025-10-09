@@ -32,17 +32,15 @@ entries_layout: list
 <hr/>
 {%- endif -%}
 
-{%- comment -%} 3) Listado por año (descendente) {%- endcomment -%}
-{% assign pubs_sorted = pubs_other | sort: "year" | reverse %}
-{% assign years = pubs_sorted | map: "year" | uniq %}
+{%- comment -%} 3) Listado por año (descendente), dentro de cada año orden por date desc {%- endcomment -%}
+{% assign pubs_sorted = pubs_other | sort: "date" | reverse %}
+{% assign groups = pubs_sorted | group_by: "year" %}
 
-{% for y in years %}
-  {% if y %}
-  <h2 id="y{{ y }}"> {{ y }} </h2>
-  {% for post in pubs_sorted %}
-    {% if post.year == y %}
+{% for g in groups %}
+  {% if g.name %}
+  <h2 id="y{{ g.name }}">{{ g.name }}</h2>
+    {% for post in g.items %}
       {% include archive-single.html %}
-    {% endif %}
-  {% endfor %}
+    {% endfor %}
   {% endif %}
 {% endfor %}
