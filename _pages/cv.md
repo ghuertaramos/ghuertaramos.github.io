@@ -10,10 +10,16 @@ redirect_from:
 {% include base_path %}
 
 <h1>Publications</h1>
-{% assign pubs = site.publications | sort: "date" | reverse %}
+{% assign pubs = site.publications | sort:"date" | reverse %}
+
+<ul class="bibliography">
 {% for post in pubs %}
-  {% include archive-single-cv.html %}
+  <li>
+    {{ post.citation | default: post.title }}
+  </li>
 {% endfor %}
+</ul>
+
   
 Education
 ======
