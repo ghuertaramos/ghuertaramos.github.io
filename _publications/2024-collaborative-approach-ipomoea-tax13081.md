@@ -1,7 +1,7 @@
 ---
 title: "Towards a collaborative approach to the systematics of Ipomoea: a response to the rebuttal on changing the conserved type of Ipomoea"
 collection: publications
-permalink: /publication/2024-ipomoea-collaborative-approach
+permalink: /publication/2024-collaborative-approach-ipomoea-tax13081.md
 date: 2024-06-01
 year: 2024
 venue: "Taxon"
