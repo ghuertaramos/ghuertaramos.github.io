@@ -1,7 +1,7 @@
 ---
 title: "Untangling the Complexity of Climate Change Effects on Plant Reproductive Traits and Pollinators: A Systematic Global Synthesis"
 collection: publications
-permalink: /publication/2025-gcb-climate-change-reproductive-traits-pollinators
+permalink: /publication/2025-gcb-untangling-climate-change-pollination.md
 date: 2025-02-01
 year: 2025
 venue: "Global Change Biology"
