@@ -1,0 +1,14 @@
+---
+title: "Elevational and Seasonal Patterns of Plant–Hummingbird Interactions in a High Tropical Mountain"
+collection: publications
+permalink: /publication/2024-plant-hummingbird-elevation-season
+date: 2024-10-24
+year: 2024
+venue: "Ecology and Evolution"
+authors: "Sentíes-Aguilar, E. M.; Martén-Rodríguez, S.; Huerta-Ramos, G.; Díaz-Infante, S.; López-Segoviano, G.; Aguirre-Jaimes, A.; Quesada-Avendaño, M.; Cortés-Flores, J.; Arizmendi, M. del C."
+doi: 10.1002/ece3.70469
+paperurl: https://doi.org/10.1002/ece3.70469
+excerpt: "Dinámica espacio-temporal de redes planta–colibrí a lo largo de un gradiente altitudinal en un volcán tropical."
+tags: [pollination, hummingbirds, networks, Mexico]
+selected: false
+---
