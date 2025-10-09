@@ -1,7 +1,7 @@
 ---
 title: "Flowering seasonality drives taxonomic, functional, and phylogenetic diversity of hummingbirds along an altitudinal gradient in northwestern Mexico"
 collection: publications
-permalink: /publication/2025-hummingbirds-seasonality-altitudinal-gradient
+permalink: /publication/2025-plosone-hummingbirds-altitudinal-gradient.md
 date: 2025-06-11
 year: 2025
 venue: "PLOS ONE"
