@@ -9,7 +9,7 @@ authors: "Simões, A. R. G.; Shimpale, V. B.; Rattanakrajang, P.; Traiperm, P.; 
 citation: "Simões, A. R. G., Shimpale, V. B., Rattanakrajang, P., Traiperm, P., Kagame, S. P., <b>Huerta-Ramos, G.</b>, Goray, S., Gowda, V., Nayi, T., Moreira, A. L. C., Barbosa, J. C. J., More, S. S., Paixão, C. P., Atta-Adjei, P., Williams, B. D., & Eserman, L. A. (2024). Reinstating Palaeotropical genera of Convolvulaceae: <em>Argyreia</em>, <em>Stictocardia</em>, <em>Turbina</em>, and <em>Astripomoea</em> (tribe Ipomoeeae, subtribe Argyreiineae). Rheedea, 34(5), 533–552. https://doi.org/10.22244/rheedea.2024.34.05.15"
 doi: 10.22244/rheedea.2024.34.05.15
 paperurl: https://rheedea.in/journal/TxE7Xwji
-link:https://rheedea.in/journal/TxE7Xwji
+link: https://rheedea.in/journal/TxE7Xwji
 excerpt: "In this paper we reinstate <em>Argyreia</em>, <em>Stictocardia</em>, <em>Turbina</em>, and <em>Astripomoea</em> using morphological and genomic evidence, clarifying relationships within Ipomoeeae."
 tags: [Convolvulaceae, taxonomy]
 selected: false
