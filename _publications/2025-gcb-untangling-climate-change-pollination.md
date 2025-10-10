@@ -9,7 +9,7 @@ authors: "Martén-Rodríguez, S.; Cristobal-Pérez, E. J.; de Santiago-Hernánde
 citation: "Martén-Rodríguez, S., Cristobal-Pérez, E. J., de Santiago-Hernández, M. H., <b>Huerta-Ramos, G.</b>, Clemente-Martínez, L., Krupnick, G., Taylor, O., Lopezaraiza-Mikel, M., Balvino-Olvera, F. J., Sentíes-Aguilar, E. M., Díaz-Infante, S., Aguirre Jaimes, A., Novais, S., Cortés-Flores, J., Lobo-Segura, J., Fuchs, E. J., Delgado-Carrillo, O., Ruiz-Mercado, I., Sáyago-Lorenzana, R., Pérez-Arroyo, K., & Quesada, M. (2025). Untangling the complexity of climate change effects on plant reproductive traits and pollinators: A systematic global synthesis. Global Change Biology, 31(2), e70081. https://doi.org/10.1111/gcb.70081"
 doi: 10.1111/gcb.70081
 paperurl: https://doi.org/10.1111/gcb.70081
-url: https://doi.org/10.1111/gcb.70081
+link: https://doi.org/10.1111/gcb.70081
 excerpt: "In this review we synthesize global evidence on how climate change alters plant reproductive traits and pollinators—timing, floral rewards, and interactions—highlighting major gaps in tropical systems."
 tags: [climate change, pollination, synthesis]
 selected: false
