@@ -1,7 +1,7 @@
 ---
 title: "Elevational and Seasonal Patterns of Plant–Hummingbird Interactions in a High Tropical Mountain"
 collection: publications
-permalink: /publication/2024-elevational-seasonal-plant-hummingbird-ece3.md
+permalink: /publication/2024-elevational-seasonal-plant-hummingbird-ece3/
 date: 2024-10-24
 year: 2024
 venue: "Ecology and Evolution"
