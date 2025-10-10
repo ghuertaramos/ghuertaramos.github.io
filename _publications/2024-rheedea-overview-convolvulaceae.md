@@ -10,6 +10,7 @@ citation: "Simões, A. R. G., <b>Huerta-Ramos</b>, G., Moreira, A. L. C., Paz, J
 doi: 10.22244/rheedea.2024.34.05.02
 paperurl: https://rheedea.in/journal/FIWpXZ4w
 link: https://rheedea.in/journal/FIWpXZ4w
+corresponding: true
 excerpt: "Síntesis taxonómica y biogeográfica de Convolvulaceae con énfasis en morfología, evolución y usos."
 tags: [Convolvulaceae, review]
 selected: false
