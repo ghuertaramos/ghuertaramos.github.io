@@ -27,62 +27,59 @@
       </div>
     {% endif %}
 
-    {%- comment -%} Build external link for publications {%- endcomment -%}
-    {%- assign ext = '' -%}
-    {%- if post.collection == 'publications' -%}
-      {%- if post.paperurl and post.paperurl != '' -%}
-        {%- assign ext = post.paperurl -%}
-      {%- elsif post.doi and post.doi != '' -%}
-        {%- assign ext = 'https://doi.org/' | append: post.doi -%}
-      {%- elsif post.link and post.link != '' -%}
-        {%- assign ext = post.link -%}
-      {%- endif -%}
-    {%- endif -%}
-
-    <h2 class="archive__item-title" itemprop="headline">
-      {%- if ext != '' -%}
-        <a href="{{ ext }}" target="_blank" rel="noopener">{{ title }}</a>
-      {%- elsif post.link -%}
-        <a href="{{ post.link }}">{{ title }}</a>
-        <a href="{{ base_path }}{{ post.url }}" rel="permalink">
-          <i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span>
-        </a>
-      {%- else -%}
-        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
-      {%- endif -%}
-
-      {%- if post.collection == 'publications' and post.corresponding -%}
-        <span class="pub-flag" title="Corresponding author" aria-label="Corresponding author">✉️</span>
-      {%- endif -%}
+    <h2 class="archive__item-title pub-title" itemprop="headline">
+      {% if post.collection == 'publications' %}
+        {% if post.paperurl %}
+          <a href="{{ post.paperurl }}" class="pub-link" target="_blank" rel="noopener">{{ title }}</a>
+        {% elsif post.doi %}
+          <a href="https://doi.org/{{ post.doi }}" class="pub-link" target="_blank" rel="noopener">{{ title }}</a>
+        {% elsif post.link %}
+          <a href="{{ post.link }}" class="pub-link" target="_blank" rel="noopener">{{ title }}</a>
+        {% else %}
+          <a href="{{ base_path }}{{ post.url }}" class="pub-link" rel="permalink">{{ title }}</a>
+        {% endif %}
+        {% if post.corresponding %}
+          <span class="pub-flag" title="Corresponding author" aria-label="Corresponding author">✉️</span>
+        {% endif %}
+      {% else %}
+        {% if post.link %}
+          <a href="{{ post.link }}">{{ title }}</a>
+          <a href="{{ base_path }}{{ post.url }}" rel="permalink">
+            <i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span>
+          </a>
+        {% else %}
+          <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+        {% endif %}
+      {% endif %}
     </h2>
 
-    {%- if post.read_time -%}
+    {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
-    {%- endif -%}
+    {% endif %}
 
-    {%- if post.collection == 'teaching' -%}
+    {% if post.collection == 'teaching' %}
       <p>{{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
-    {%- elsif post.collection == 'publications' -%}
+    {% elsif post.collection == 'publications' %}
       <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
-    {%- elsif post.date -%}
+    {% elsif post.date %}
       <p class="page__date">
         <strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong>
         <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time>
       </p>
-    {%- endif -%}
+    {% endif %}
 
-    {%- comment -%} Excerpt only; avoid body content to prevent "Recommended citation" from MD {%- endcomment -%}
-    {%- if post.excerpt and site.read_more != 'enabled' -%}
+    {%- comment -%} Excerpt only; never print body content here {%- endcomment -%}
+    {% if post.excerpt and site.read_more != 'enabled' %}
       <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
-    {%- elsif post.excerpt and site.read_more == 'enabled' -%}
+    {% elsif post.excerpt and site.read_more == 'enabled' %}
       <p class="archive__item-excerpt" itemprop="description">
         {{ post.excerpt | markdownify | replace: '<p>', '' | replace: '</p>', '' }}
         <strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong>
       </p>
-    {%- endif -%}
+    {% endif %}
 
-    {%- comment -%} Hide "Recommended citation" on publications (still available for other collections) {%- endcomment -%}
-    {%- unless include.hide_citation or post.collection == 'publications' -%}
+    {%- comment -%} Hide "Recommended citation" on publications {%- endcomment -%}
+    {% unless include.hide_citation or post.collection == 'publications' %}
       {% if post.citation and post.paperurl %}
         <p>Recommended citation: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
       {% elsif post.citation %}
@@ -90,7 +87,7 @@
       {% elsif post.paperurl %}
         <p>Download <a href="{{ post.paperurl }}"><u>here</u></a></p>
       {% endif %}
-    {%- endunless -%}
+    {% endunless %}
 
   </article>
 </div>
