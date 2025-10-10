@@ -12,7 +12,7 @@ doi: 10.22244/rheedea.2024.34.05.02
 paperurl: https://rheedea.in/journal/FIWpXZ4w
 link: https://rheedea.in/journal/FIWpXZ4w
 corresponding: true
-excerpt: "Síntesis taxonómica y biogeográfica de Convolvulaceae con énfasis en morfología, evolución y usos."
+excerpt: "Concise tour of Convolvulaceae diversity, morphology, ecology, systematics, distributions, and uses."
 tags: [Convolvulaceae, review]
 selected: false
 ---
