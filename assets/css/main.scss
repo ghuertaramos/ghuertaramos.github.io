@@ -40,4 +40,7 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 /* custom tweaks */
+.archive__item-title.pub-title { font-weight: 400; }
+.archive__item-title.pub-title .pub-link { font-weight: 400; font-size: 0.95em; line-height: 1.2; }
 .pub-flag { margin-left:.35rem; font-size:.9em; vertical-align:middle; }
+
