@@ -23,48 +23,64 @@ redirect_from:
   
 Education
 ======
-* B.S. in Biology, BUAP, 2011
-* M.S. in Systematics, INECOL A.C., 2015
-* Ph.D in Evolutionary biology, UNAM, 2026 (expected)
-  
+* Ph.D in Evolutionary Biology, UNAM (Soon)
+* M.S. in Systematics, INECOL A.C.
+* B.S. in Biology, BUAP
+
+Mentoring
+======
+* B.S. — **Karen Daneb Pérez Arroyo** (2024). Thesis: “Pollinator dependence and autonomous reproduction along the elevation gradient of Nevado de Colima”.  Co-advised with Silvana Martén-Rodríguez, Ph.D
+  [TESIUNAM](https://hdl.handle.net/20.500.14330/TES01000864396){:target="_blank" rel="noopener"}
+
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>  
+**ENES–Morelia, UNAM — Ecology B.Sc. program**
+
+**Course Instructor**
+- Field Ecology II (2025)
+- Forest Ecology (2025)
+- Systematics (2023, 2025)
+- Biodiversity V: Plant Biology (2023)
+
+**Teaching Assistant**
+- Functional Ecology: Selected Topics (2024)
+- Field Ecology II (2023, 2024)
+- Systematics (2019, 2024)
+- Biodiversity V: Plant Biology (2018, 2019, 2020, 2024, 2025)
   
 Skills
 ======
-* Molecular laboratory
+* **Molecular laboratory**
   * DNA extraction and PCR amplification
   * Illumina library preparation and analysis
   * Fluorescence microscopy sample preparation and visualization
-  
-* Informatics
+* **Informatics**
   * Command line
-  * R Programming 
+  * R programming
   * Markdown
   * Version control (Git)
-  * High performance computing
-    
-* Field biology
+  * High-performance computing
+* **Field biology**
   * Plant collection and identification
   * Experimental pollination biology
-  
+
 Courses and Workshops
 ======
- * Molecular Dating. INECOL. Xalapa, Mexico. 
- * Statistics in R. INECOL. Xalapa, Mexico.
- * Pollination Evolutionary Ecology. INECOL. Xalapa, Mexico. 
- * Bioinformatics for Landscape Genomics. ENES-Morelia.
- * Multivariate Analysis in R. IIES, Morelia, Mexico.
- * Introduction to bioinformatics and reproducible research for genetic analysis. Instituto de Ecología, Mexico City, Mexico.
- * Introduction to the analysis of microbial gene sequences and metagenomics. IIES, Morelia, Mexico.
- * Using Geiger, Phytools, and other computational tools to study macroevolution on phylogenies. Transmitting Science. Barcelona, Spain.
+* Molecular Dating — INECOL (Xalapa, Mexico)
+* Statistics in R — INECOL (Xalapa, Mexico)
+* Pollination Evolutionary Ecology — INECOL (Xalapa, Mexico)
+* Bioinformatics for Landscape Genomics — ENES-Morelia
+* Multivariate Analysis in R — IIES (Morelia, Mexico)
+* Introduction to bioinformatics and reproducible research for genetic analysis — Instituto de Ecología (Mexico City, Mexico)
+* Introduction to the analysis of microbial gene sequences and metagenomics — IIES (Morelia, Mexico)
+* Using Geiger, Phytools, and other tools for macroevolution on phylogenies — Transmitting Science (Barcelona, Spain)
+
  
 Scientific societies
 ======
- * The Convolvulaceae Network
- * North American Pollinator Protection Campaign
- * Society of Systematic Biologists
+* [SORTEE — Society for Open, Reliable, and Transparent Ecology and Evolution](https://sortee.org/){:target="_blank" rel="noopener"}
+* [Red Mexicana de Biología Evolutiva (REMBE)](https://mexevol.com/){:target="_blank" rel="noopener"}
+* [North American Pollinator Protection Campaign (NAPPC)](https://www.pollinator.org/){:target="_blank" rel="noopener"} — Climate Change Task Force
+* [The Convolvulaceae Network](https://sites.google.com/view/theconvolvulaceaenetwork){:target="_blank" rel="noopener"}
+* [Convolvulaceae Taxonomic Expert Network (TEN)](https://about.worldfloraonline.org/tens/convolvulaceae){:target="_blank" rel="noopener"}
 
