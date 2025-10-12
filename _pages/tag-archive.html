@@ -1,16 +1,27 @@
 ---
 layout: archive
 permalink: /tags/
-title: "Posts by Tags"
-author_profile: true
+title: "Tags"
+author_profile: false
 ---
 
 {% include base_path %}
-{% include group-by-array collection=site.posts field="tags" %}
 
-{% for tag in group_names %}
-  {% assign posts = group_items[forloop.index0] %}
-  <h2 id="{{ tag | slugify }}" class="archive__subtitle">{{ tag }}</h2>
+{%- assign tags = site.tags | sort_natural -%}
+
+{# Optional: quick jump list #}
+<p class="tag-cloud">
+  {% for t in tags %}
+    <a href="#{{ t[0] | slugify }}">#{{ t[0] }} <span class="tag-count">{{ t[1] | size }}</span></a>
+    {% unless forloop.last %} · {% endunless %}
+  {% endfor %}
+</p>
+<hr/>
+
+{% for t in tags %}
+  {% assign name = t[0] %}
+  {% assign posts = t[1] | sort: "date" | reverse %}
+  <h2 id="{{ name | slugify }}" class="archive__subtitle">#{{ name }} <span class="tag-count">{{ posts | size }}</span></h2>
   {% for post in posts %}
     {% include archive-single.html %}
   {% endfor %}
