@@ -119,6 +119,7 @@ links:
     - label: "iNaturalist"
       icon: "fas fa-seedling"   # or "fas fa-leaf" / "fas fa-bug"
       url: "https://www.inaturalist.org/people/53663"
+search: true
 
 # Reading Files
 include:
