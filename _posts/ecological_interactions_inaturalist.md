@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "Ecological Interactions in <i>Ipomoea</i>"
+tags: [dataset, inaturalist, Ipomoea, Plant-Pollinator]
+categories: [repositories]
 date: 2020-06-11
 ---
 
