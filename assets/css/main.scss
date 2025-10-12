@@ -45,5 +45,8 @@
 .pub-flag { margin-left:.35rem; font-size:.9em; vertical-align:middle; }
 .tag-count { font-weight: 400; font-size: 0.8em; opacity: .7; margin-left: .25em; }
 .tag-cloud a { text-decoration: none; }
+/* Make each year heading start on a new row below floated grid cards */
+.page__content h2[id^="y"] { clear: both; }
+
 
 
