@@ -83,4 +83,6 @@ Scientific societies
 * [North American Pollinator Protection Campaign (NAPPC)](https://www.pollinator.org/){:target="_blank" rel="noopener"} — Climate Change Task Force
 * [The Convolvulaceae Network](https://sites.google.com/view/theconvolvulaceaenetwork){:target="_blank" rel="noopener"}
 * [Convolvulaceae Taxonomic Expert Network (TEN)](https://about.worldfloraonline.org/tens/convolvulaceae){:target="_blank" rel="noopener"}
+* INaturalist Ambassador
+* GBIF Mentor
 
