@@ -264,6 +264,8 @@ timezone: America/Mexico_City # http://en.wikipedia.org/wiki/List_of_tz_database
 
 # Plugins
 plugins:
+  - jekyll-seo-tag
+google_site_verification: kMOs3UHAGb6a-drP3fG7HwtsRs6HmwS5g7duOaHBrPc
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
