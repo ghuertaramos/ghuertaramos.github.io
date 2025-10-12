@@ -27,6 +27,7 @@ entries_layout: grid
 {%- for post in g.items -%}{% if post.selected %}{% include archive-single.html post=post type="grid" %}{% endif %}{%- endfor -%}
 {%- for post in g.items -%}{% unless post.selected %}{% include archive-single.html post=post type="grid" %}{% endunless %}{%- endfor -%}
 </div>
+<div style="clear: both;"></div>
 {%- endif -%}
 {%- endfor -%}
 
