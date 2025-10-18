@@ -3,6 +3,7 @@ title: "Posts"
 permalink: /posts/
 layout: archive
 author_profile: true
+show_excerpts: true
 ---
 
 {% include base_path %}
