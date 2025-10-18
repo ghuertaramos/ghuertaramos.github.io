@@ -11,7 +11,7 @@ header:
 
 <!-- Put the preview content BEFORE the excerpt separator so it shows on /posts/ -->
 {% include figure
-   image_path="/assets/images/posts/ipomoea-interactions-teaser.jpg"
+   image_path="/images/ipomoea-interactions-teaser.jpg.png"
    alt="Screenshot of the iNaturalist project showing Ipomoea pollination, herbivory and parasitism observations"
    caption="Project: *Ecological Interactions in Ipomoea*"
    url="https://www.inaturalist.org/observations?project_id=77698" %}
