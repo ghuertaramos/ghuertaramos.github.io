@@ -29,8 +29,8 @@ Education
 
 Mentoring
 ======
-* B.S. — **Karen Daneb Pérez Arroyo** (2024). Thesis: “Pollinator dependence and autonomous reproduction along the elevation gradient of Nevado de Colima”.  Co-advised with Silvana Martén-Rodríguez, Ph.D
-  [TESIUNAM](https://hdl.handle.net/20.500.14330/TES01000864396){:target="_blank" rel="noopener"}
+* B.S. — **Karen Daneb Pérez Arroyo** (2024). Thesis: “Pollinator dependence and autonomous reproduction along the elevation gradient of Nevado de Colima”.  Co-advised with Silvana Martén-Rodríguez, Ph.D.
+  -   [TESIUNAM](https://hdl.handle.net/20.500.14330/TES01000864396){:target="_blank" rel="noopener"}
 
 Teaching
 ======
@@ -63,18 +63,6 @@ Skills
 * **Field biology**
   * Plant collection and identification
   * Experimental pollination biology
-
-Courses and Workshops
-======
-* Molecular Dating — INECOL (Xalapa, Mexico)
-* Statistics in R — INECOL (Xalapa, Mexico)
-* Pollination Evolutionary Ecology — INECOL (Xalapa, Mexico)
-* Bioinformatics for Landscape Genomics — ENES-Morelia
-* Multivariate Analysis in R — IIES (Morelia, Mexico)
-* Introduction to bioinformatics and reproducible research for genetic analysis — Instituto de Ecología (Mexico City, Mexico)
-* Introduction to the analysis of microbial gene sequences and metagenomics — IIES (Morelia, Mexico)
-* Using Geiger, Phytools, and other tools for macroevolution on phylogenies — Transmitting Science (Barcelona, Spain)
-
  
 Scientific societies
 ======
