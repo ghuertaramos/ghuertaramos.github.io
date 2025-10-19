@@ -98,3 +98,30 @@ My research interests revolve around understanding the intricate interplay betwe
 Seeking Postdoctoral Opportunities
 ======
 As I approach the final stage of my doctoral degree, I am actively seeking postdoctoral opportunities for the year 2026. If you are aware of any exciting prospects or would like to collaborate, please don't hesitate to contact me. Your support and recommendations are greatly appreciated!
+
+<style>
+.scroll-gallery {
+  display: flex;
+  gap: 10px;
+  overflow-x: auto;
+  padding: 6px 0 12px;
+  scroll-snap-type: x proximity;
+}
+.scroll-gallery img {
+  height: 150px;
+  width: auto;
+  border-radius: 8px;
+  scroll-snap-align: start;
+  display: block;
+}
+</style>
+
+<div class="scroll-gallery">
+  <a href="/images/Ipomoea_indica.jpeg"><img src="/images/Ipomoea_indica.jpeg" alt="Ipomoea indica"></a>
+  <a href="/images/Ipomoea_hederacea.jpeg"><img src="/images/Ipomoea_hederacea.jpeg" alt="Ipomoea hederacea"></a>
+  <a href="/images/Ipomoea_santillanii.jpeg"><img src="/images/Ipomoea_santillanii.jpeg" alt="Ipomoea santillanii"></a>
+  <a href="/images/Ipomoea_decasperma.jpeg"><img src="/images/Ipomoea_decasperma.jpeg" alt="Ipomoea decasperma"></a>
+  <a href="/images/Ipomoea_orizabensis_novogaliciana.jpeg"><img src="/images/Ipomoea_orizabensis_novogaliciana.jpeg" alt="Ipomoea orizabensis subsp. novogaliciana"></a>
+  <a href="/images/Ipomoea_dumosa.jpeg"><img src="/images/Ipomoea_dumosa.jpeg" alt="Ipomoea dumosa"></a>
+</div>
+
