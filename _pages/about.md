@@ -8,13 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Guillermo, a Ph.D student at <a href="http://www.enesmorelia.unam.mx/" target="_blank">ENES-Morelia, UNAM</a>. I'm a member of the Plant Evolutionary Ecology Lab from [Silvana Martén-Rodríguez Ph.D](https://scholar.google.es/citations?user=8-U0ygsAAAAJ&hl) and a lab assistant at the <a href="http://www.lanase.unam.mx/" target="_blank">National Laboratory of Ecological Analysis and Synthesis</a>.
+Hi! I'm Guillermo, a PhD candidate at <a href="http://www.enesmorelia.unam.mx/" target="_blank">ENES-Morelia (UNAM)</a>, member of the Plant Evolutionary Ecology Lab (advised by <a href="https://scholar.google.es/citations?user=8-U0ygsAAAAJ&hl" target="_blank">Silvana Martén-Rodríguez</a>), and lab assistant at the <a href="http://www.lanase.unam.mx/" target="_blank">National Laboratory of Ecological Analysis and Synthesis</a>.
 
-Research
-======
+### PhD Project
+I study how breeding systems and lifespan shape macroevolutionary patterns in morning glories (<i>Ipomoea</i>). I combine phylogenetic comparative analyses, ecological niche modeling, and field observations/experiments to understand range dynamics and plant–pollinator interactions under climate change.
 
-My research interests revolve around understanding the intricate interplay between ecological, geographical, and historical factors contributing to species diversification. I am particularly fascinated by utilizing evolutionary research to predict and unravel species' responses in the face of our current environmental crisis. For my doctoral degree, I am integrating phylogenetic comparative methods, niche modeling, and field experiments to investigate how breeding systems have influenced macroevolutionary patterns in morning glories (<i>Ipomoea</i>). 
+### Other projects I’ve worked on
+- Plant–hummingbird interaction networks along elevational gradients (network structure, phenology).
+- High-mountain pollination networks in Central Mexico.
+- Convolvulaceae data curation for World Flora Online (TEN) and community coordination.
+- Teaching materials and open workflows for biodiversity data.
 
+
+<!--
 <style>
 /* simple, GH Pages–safe gallery */
 .gallery {
@@ -93,12 +99,13 @@ My research interests revolve around understanding the intricate interplay betwe
     <figcaption><i>Ipomoea dumosa</i></figcaption>
   </figure>
 </div>
+-->
 
+## Seeking postdoctoral opportunities (2026)
+I’m exploring postdoc positions and collaborations for 2026.  
+Feel free to reach me at <a href="mailto:ghuertaramos@gmail.com">ghuertaramos@gmail.com</a>.
 
-Seeking Postdoctoral Opportunities
-======
-As I approach the final stage of my doctoral degree, I am actively seeking postdoctoral opportunities for the year 2026. If you are aware of any exciting prospects or would like to collaborate, please don't hesitate to contact me. Your support and recommendations are greatly appreciated!
-
+<!--
 <style>
 .scroll-gallery {
   display: flex;
@@ -114,6 +121,8 @@ As I approach the final stage of my doctoral degree, I am actively seeking postd
   scroll-snap-align: start;
   display: block;
 }
+  
+<!--
 </style>
 
 <div class="scroll-gallery">
@@ -124,4 +133,4 @@ As I approach the final stage of my doctoral degree, I am actively seeking postd
   <a href="/images/Ipomoea_orizabensis_novogaliciana.jpeg"><img src="/images/Ipomoea_orizabensis_novogaliciana.jpeg" alt="Ipomoea orizabensis subsp. novogaliciana"></a>
   <a href="/images/Ipomoea_dumosa.jpeg"><img src="/images/Ipomoea_dumosa.jpeg" alt="Ipomoea dumosa"></a>
 </div>
-
+-->
