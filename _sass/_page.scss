@@ -442,9 +442,12 @@
 }
 
 .project-logo {
-  max-width: 95px;
-  max-height: 95px;
+  width: 90px;
+  height: 90px;
+  max-width: 90px;
+  max-height: 90px;
   object-fit: contain;
+  display: block;
   margin-bottom: 1rem;
 }
 
