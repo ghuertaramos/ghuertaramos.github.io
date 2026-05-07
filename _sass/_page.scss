@@ -399,3 +399,86 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+/* ==========================================================================
+   Projects grid
+   ========================================================================== */
+
+.project-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1.5rem;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.project-card {
+  display: block;
+  padding: 1.25rem;
+  border-radius: 14px;
+  background: mix(#000, $background-color, 12%);
+  border: 1px solid mix(#fff, $background-color, 12%);
+  text-decoration: none;
+  color: $text-color;
+  transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+}
+
+.project-card:hover {
+  transform: translateY(-4px);
+  text-decoration: none;
+  border-color: $link-color;
+  box-shadow: 0 10px 24px rgba(0, 0, 0, 0.18);
+}
+
+.project-card h2 {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+  font-size: 1.15em;
+}
+
+.project-card p {
+  margin-bottom: 0;
+  line-height: 1.5;
+  font-size: 0.9em;
+}
+
+.project-logo {
+  max-width: 95px;
+  max-height: 95px;
+  object-fit: contain;
+  margin-bottom: 1rem;
+}
+
+
+/* ==========================================================================
+   Project detail pages
+   ========================================================================== */
+
+.project-link-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1rem;
+  margin-top: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.project-link-card {
+  padding: 1rem;
+  border-radius: 12px;
+  background: mix(#000, $background-color, 10%);
+  border: 1px solid mix(#fff, $background-color, 10%);
+}
+
+.project-link-card h3 {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+  font-size: 1.05em;
+}
+
+.project-link-card p {
+  font-size: 0.9em;
+  line-height: 1.5;
+}
+
+.project-link-card a {
+  font-weight: bold;
+}
