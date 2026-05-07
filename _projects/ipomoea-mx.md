@@ -1,6 +1,6 @@
 ---
 title: "ipomoea.mx"
-excerpt: "A science communication project sharing stories, images, and observations about Ipomoea diversity in Mexico."
+excerpt: "A science communication project sharing stories, images, and observations about *Ipomoea* diversity in Mexico."
 logo: "/images/IPOMOEA.MX.png"
 weight: 1
 permalink: /projects/ipomoea-mx/
