@@ -14,8 +14,7 @@ Hi! I'm Guillermo, a PhD candidate at <a href="http://www.enesmorelia.unam.mx/" 
 I study how breeding systems and lifespan shape macroevolutionary patterns in morning glories (<i>Ipomoea</i>). I combine phylogenetic comparative analyses, ecological niche modeling, and field observations/experiments to understand range dynamics and plant–pollinator interactions under climate change.
 
 ### Other projects I’ve worked on
-- Plant–hummingbird interaction networks along elevational gradients (network structure, phenology).
-- High-mountain pollination networks in Central Mexico.
+- Plant–hummingbird interaction networks along elevational gradients.
 - Convolvulaceae data curation for World Flora Online (TEN) and community coordination.
 - Teaching materials and open workflows for biodiversity data.
 
